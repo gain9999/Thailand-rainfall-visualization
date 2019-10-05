@@ -4,7 +4,7 @@ An example of satellite precipitation data visualization in jupiter notebook (pl
 
 [![Thailand rainfall](screenshot1.png)](https://www.youtube.com/watch?v=rFawyUQXMOg)
 
-#### Google Colab
+#### Run it on Google Colab
 From Korakot Chaovavanich:
 https://colab.research.google.com/drive/1EgKthEYvBt7UcBCLMRTAcjTSlaautw8h?fbclid=IwAR3mDSFsjupALRFCZdvwmHa6Gi2kZA1nlD2DIh1DGd91ytnEbkY9h_tXrOY#scrollTo=_h4zHzkmPilN
 
