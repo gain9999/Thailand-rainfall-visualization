@@ -1,6 +1,6 @@
 # Thailand rainfall visualization
 
-An example of satellite precipitation data visualization
+An example of satellite precipitation data visualization in jupiter notebook (plot_timeseries.ipynb)
 
 [![Thailand rainfall](screenshot1.png)](https://www.youtube.com/watch?v=rFawyUQXMOg)
 
