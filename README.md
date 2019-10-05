@@ -1,7 +1,8 @@
 # Thailand rainfall visualization
 
 An example of satellite precipitation data visualization
-![Thailand rainfall](screenshot1.png)
+
+[![Thailand rainfall](screenshot1.png)](https://www.youtube.com/watch?v=rFawyUQXMOg)
 
 
 ## Data
