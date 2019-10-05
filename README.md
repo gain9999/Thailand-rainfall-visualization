@@ -13,3 +13,6 @@ An example of satellite precipitation data visualization in jupiter notebook (pl
 - Source <http://chrsdata.eng.uci.edu/>
 - Satellite Precipitation Estimation Methodology <http://chrs.web.uci.edu/SP_activities01.php>
 
+#### Google Colab
+From Korakot Chaovavanich:
+https://colab.research.google.com/drive/1EgKthEYvBt7UcBCLMRTAcjTSlaautw8h?fbclid=IwAR3mDSFsjupALRFCZdvwmHa6Gi2kZA1nlD2DIh1DGd91ytnEbkY9h_tXrOY#scrollTo=_h4zHzkmPilN
